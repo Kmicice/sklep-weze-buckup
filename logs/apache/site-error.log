@@ -1,0 +1,11 @@
+[Sat May 11 23:45:21.628596 2024] [access_compat:error] [pid 86852:tid 1368] [client 127.0.0.1:64704] AH01797: client denied by server configuration: D:/Sklep/WP/app/public/wp-content/uploads/woocommerce_uploads/
+[Sat May 11 23:46:20.874394 2024] [fcgid:warn] [pid 86852:tid 1348] [client 127.0.0.1:64775] mod_fcgid: read timeout from pipe, referer: http://sklep-weze.local/wp-admin/themes.php?page=kadence-starter-templates
+[Sat May 11 23:46:20.874394 2024] [core:error] [pid 86852:tid 1348] [client 127.0.0.1:64775] End of script output before headers: admin-ajax.php, referer: http://sklep-weze.local/wp-admin/themes.php?page=kadence-starter-templates
+[Sun May 19 20:58:29.643700 2024] [fcgid:warn] [pid 27712:tid 1368] [client 127.0.0.1:55298] mod_fcgid: read timeout from pipe
+[Sun May 19 20:58:29.643700 2024] [core:error] [pid 27712:tid 1368] [client 127.0.0.1:55298] End of script output before headers: index.php
+[Thu May 23 18:12:21.820386 2024] [fcgid:warn] [pid 10880:tid 1360] [client 127.0.0.1:55515] mod_fcgid: read timeout from pipe
+[Thu May 23 18:12:21.820386 2024] [core:error] [pid 10880:tid 1360] [client 127.0.0.1:55515] End of script output before headers: wp-cron.php
+[Thu May 23 19:05:24.348655 2024] [access_compat:error] [pid 10880:tid 1384] [client 127.0.0.1:57768] AH01797: client denied by server configuration: D:/Sklep/WP/app/public/wp-content/uploads/woocommerce_uploads/
+[Tue May 28 23:54:43.916571 2024] [fcgid:warn] [pid 25796:tid 1340] (OS 109)Potok zosta³ zakoñczony.  : [client 127.0.0.1:59545] mod_fcgid: get overlap result error
+[Tue May 28 23:54:43.917571 2024] [core:error] [pid 25796:tid 1340] [client 127.0.0.1:59545] End of script output before headers: wp-cron.php
+[Wed Jun 05 21:46:47.149961 2024] [core:error] [pid 8908:tid 1348] (20024)The given path is misformatted or contained invalid characters: [client 127.0.0.1:60806] AH00127: Cannot map GET /%22http:////sklep-weze.local//wp-content//uploads//2024//05//1SN-Hydraulic-Hose-1.pdf/%22 HTTP/1.0 to file, referer: http://sklep-weze.local/product/kreator-weza/

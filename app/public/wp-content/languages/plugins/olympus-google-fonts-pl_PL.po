@@ -1,0 +1,1019 @@
+# Translation of Plugins - Fonts Plugin | Google Fonts Typography - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - Fonts Plugin | Google Fonts Typography - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-07-21 05:47:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - Fonts Plugin | Google Fonts Typography - Stable (latest release)\n"
+
+#: includes/customizer/panels.php:78
+msgid "Optimize your site's performance by unchecking any font weights you don't need."
+msgstr "Zoptymalizuj wydajność witryny, odznaczając niepotrzebne wagi czcionek."
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:39
+msgid "Learn More"
+msgstr "Dowiedz się więcej"
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:36
+msgid "⚡️ Optimized Font Loading"
+msgstr "⚡️ Zoptymalizowane ładowanie czcionek"
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:37
+msgid "🧙‍ Upload Custom Fonts"
+msgstr "🧙‍ Prześlij własne czcionki"
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:35
+msgid "📦 Host Fonts Locally"
+msgstr "📦 Hostuj czcionki lokalnie"
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:34
+msgid "✅ Unlock Font Size & Color"
+msgstr "✅ Odblokuj rozmiar i kolor czcionki"
+
+#: includes/customizer/controls/class-ogf-customize-upsell-control.php:32
+msgid "Upgrade to Fonts Plugin Pro"
+msgstr "Uaktualnij do Fonts Plugin Pro"
+
+#: includes/customizer/controls/class-ogf-customize-multiple-fonts-control.php:68
+msgid "Choose some fonts..."
+msgstr "Wybierz niektóre czcionki..."
+
+#: includes/customizer/class-ogf-optimization-controls.php:75
+msgid "Fonts will be served from %s instead of fonts.googleapis.com."
+msgstr "Czcionki będą obsługiwane z %s zamiast z fonts.googleapis.com."
+
+#: admin/class-ogf-welcome-screen.php:101
+msgid "Read Guide"
+msgstr "Przeczytaj przewodnik"
+
+#: admin/class-ogf-welcome-screen.php:97
+msgid "Send My Guide!"
+msgstr "Wyślij mi przewodnik!"
+
+#: admin/class-ogf-welcome-screen.php:94
+msgid "Your email address..."
+msgstr "Twój adres e-mail."
+
+#: admin/class-ogf-welcome-screen.php:90
+msgid "Download your free copy today."
+msgstr "Pobierz swoją darmową kopię już dzisiaj."
+
+#: admin/class-ogf-welcome-screen.php:88
+msgid "How to use Google Fonts without %1$sslowing down%2$s your website."
+msgstr "Jak korzystać z Google Fonts bez %1$sspowolnienia%2$s witryny."
+
+#: admin/class-ogf-welcome-screen.php:87
+msgid "How to host fonts %1$slocally%2$s for speed, GDPR & DSGVO."
+msgstr "Jak hostować czcionki %1$slokalnie%2$s dla uzyskania większej szybkości ładowania, RODO i DSGVO ."
+
+#: admin/class-ogf-welcome-screen.php:86
+msgid "How to %1$seasily%2$s customize your typography."
+msgstr "Jak %1$słatwo%2$s dostosować typografię."
+
+#: admin/class-ogf-welcome-screen.php:84
+msgid "In this beautifully-formatted, easy-to-read PDF you will learn:"
+msgstr "W tym pięknie sformatowanym, łatwym do czytania pliku PDF nauczysz się:"
+
+#: admin/class-ogf-welcome-screen.php:83
+msgid "To help you get the most out of the Google Fonts plugin we’ve put together a free quickstart guide."
+msgstr "Aby pomóc Ci w pełni wykorzystać wtyczkę Google Fonts, przygotowaliśmy bezpłatny przewodnik szybkiego startu."
+
+#: admin/class-ogf-welcome-screen.php:79
+msgid "Your Quickstart Guide"
+msgstr "Twój przewodnik szybkiego startu"
+
+#: includes/customizer/class-ogf-optimization-controls.php:140
+msgid "Convert fonts added by your theme and plugins to be locally hosted on your domain."
+msgstr "Konwertuj czcionki dodane przez motyw i wtyczki, aby były lokalnie hostowane w twojej domenie."
+
+#: includes/customizer/class-ogf-optimization-controls.php:139
+msgid "Rewrite External Fonts"
+msgstr "Przepisz czcionki zewnętrzne"
+
+#: includes/customizer/class-ogf-optimization-controls.php:121
+msgid "Remove Google Fonts loaded by other plugins and your theme."
+msgstr "Usuń czcionki Google załadowane przez inne wtyczki i motyw."
+
+#: includes/customizer/class-ogf-optimization-controls.php:120
+msgid "Remove External Fonts"
+msgstr "Usuń czcionki zewnętrzne"
+
+#: includes/customizer/class-ogf-optimization-controls.php:102
+msgid "Add preload resource hints."
+msgstr "Dodaj wskazówki dotyczące zasobów."
+
+#: includes/customizer/class-ogf-optimization-controls.php:101
+msgid "Enable Preloading"
+msgstr "Włącz wstępne ładowanie"
+
+#: includes/customizer/class-ogf-optimization-controls.php:46
+msgid "<p>Optimize the delivery of font files for improved performance and user-privacy.</p><p>Upgrade to <a href=\"https://fontsplugin.com/pro-upgrade\">Fonts Plugin Pro</a> to unlock these features.</p>"
+msgstr "<p>Zoptymalizuj dostarczanie plików czcionek, aby poprawić wydajność i prywatność użytkowników.</p><p>Uaktualnij do <a href=\"https://fontsplugin.com/pro-upgrade\">Fonts Plugin Pro</a>, aby odblokować te funkcje.</p>"
+
+#: includes/customizer/class-ogf-optimization-controls.php:45
+msgid "Optimization"
+msgstr "Optymalizacja"
+
+#: includes/class-ogf-clear-cache.php:64
+msgid "Clear Cache"
+msgstr "Wyczyść pamięć podręczną"
+
+#: includes/class-ogf-clear-cache.php:58
+msgid "Clear Font Cache"
+msgstr "Wyczyść pamięć podręczną czcionek"
+
+#: includes/class-ogf-clear-cache.php:40 includes/class-ogf-clear-cache.php:59
+msgid "This will clear the local font cache."
+msgstr "To usunie pamięć podręczną czcionek lokalnych"
+
+#: includes/customizer/panels.php:86
+msgid "Font Subsets"
+msgstr "Podzbiory czcionek"
+
+#: includes/customizer/settings.php:288
+msgid "Learn more →"
+msgstr "Dowiedz się więcej ➝"
+
+#: compatibility/woocommerce.php:19 compatibility/woocommerce.php:73
+#: compatibility/woocommerce.php:91
+msgid "Product Title"
+msgstr "Nazwa produktu"
+
+#: compatibility/woocommerce.php:25
+msgid "Short Description"
+msgstr "Krótki opis"
+
+#: includes/customizer/panels.php:196
+msgid "WooCommerce Blocks"
+msgstr "Bloki WooCommerce"
+
+#: includes/customizer/panels.php:189
+msgid "WooCommerce Single Product"
+msgstr "Pojedynczy Produkt WooCommerce"
+
+#: includes/customizer/panels.php:182
+msgid "WooCommerce Shop Page"
+msgstr "Strona sklepu WooCommerce"
+
+#: includes/customizer/panels.php:203
+msgid "WooCommerce Cart"
+msgstr "Koszyk WooCommerce"
+
+#: includes/customizer/panels.php:210
+msgid "WooCommerce Checkout"
+msgstr "Kasa WooCommerce"
+
+#: includes/customizer/panels.php:172
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: compatibility/woocommerce.php:79 compatibility/woocommerce.php:97
+msgid "Product Price"
+msgstr "Cena produktu"
+
+#: compatibility/woocommerce.php:67
+msgid "Place Order Button"
+msgstr "Przycisk Złóż zamówienie"
+
+#: compatibility/woocommerce.php:61
+msgid "Field Labels"
+msgstr "Etykieta pól"
+
+#: compatibility/woocommerce.php:55
+msgid "Proceed to Checkout Button"
+msgstr "Przycisk Przejdź do kasy"
+
+#: compatibility/woocommerce.php:49
+msgid "Tab Content"
+msgstr "Treść Zakładki"
+
+#: compatibility/woocommerce.php:43
+msgid "Tab Headings"
+msgstr "Nagłówki Zakładki"
+
+#: compatibility/woocommerce.php:37 compatibility/woocommerce.php:85
+#: compatibility/woocommerce.php:103
+msgid "Add to Cart Button"
+msgstr "Przycisk dodaj do koszyka"
+
+#: compatibility/woocommerce.php:31
+msgid "Price"
+msgstr "Cena"
+
+#: includes/class-ogf-dashboard-widget.php:30
+msgid "Typography News from Fonts Plugin"
+msgstr "Typograficzne nowości z Fonts Plugin"
+
+#. Description of the plugin
+#: olympus-google-fonts.php
+msgid "The easiest to use Google Fonts Plugin. No coding required. Optimized for Speed. 1000+ font choices."
+msgstr "Najłatwiejsza w użyciu wtyczka Google Fonts. Programowanie nie jest wymagane. Zoptymalizowana pod szybkość. Ponad 1000 czcionek do wyboru."
+
+#: includes/functions.php:123
+msgid "Quotes"
+msgstr "Cytaty"
+
+#: includes/functions.php:124
+msgid "Select and configure the font for quotations."
+msgstr "Wybierz i skonfiguruj czcionkę dla cytatów."
+
+#: includes/class-ogf-typekit.php:106
+msgid "Disabled"
+msgstr "Wyłączono"
+
+#: includes/class-ogf-typekit.php:106
+msgid "Enabled"
+msgstr "Włączono"
+
+#: includes/class-ogf-typekit.php:116
+msgid "Enable Kit"
+msgstr "Włącz zestaw"
+
+#: includes/class-ogf-typekit.php:114
+msgid "Disable Kit"
+msgstr "Wyłącz zestaw"
+
+#: includes/class-ogf-typekit.php:93
+msgid "There is a problem connecting to the API. Please check your API Key."
+msgstr "Występuje problem z połączeniem do API. Sprawdź swój klucz API."
+
+#: includes/class-ogf-typekit.php:95
+msgid "Enter your Adobe Fonts API Key to retrieve the fonts."
+msgstr "Wprowadź swój klucz API Adobe Fonts, aby pobrać czcionki."
+
+#: includes/class-ogf-typekit.php:32 includes/class-ogf-typekit.php:33
+msgid "Adobe Fonts"
+msgstr "Adobe Fonts"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:135
+#: blocks/dist/blocks.build.js:1 blocks/src/google-fonts/edit.js:48
+msgid "- Typekit Fonts -"
+msgstr "- Czcionki Typekit -"
+
+#: includes/class-ogf-typekit.php:46
+msgid "Configuration"
+msgstr "Konfiguracja"
+
+#: includes/class-ogf-typekit.php:47
+msgid "Results"
+msgstr "Wyniki"
+
+#: includes/class-ogf-typekit.php:48
+msgid "API Key"
+msgstr "Klucz API"
+
+#: includes/class-ogf-typekit.php:62
+msgid "Refresh Fonts"
+msgstr "Odśwież czcionki"
+
+#: includes/class-ogf-typekit.php:81
+msgid "Save"
+msgstr "Zapisz"
+
+#: includes/class-ogf-typekit.php:100
+msgid "The following data was retrieved from the Typekit API:"
+msgstr "Z interfejsu API Typekit pobrano następujące dane:"
+
+#: includes/class-ogf-typekit.php:110
+msgid "Font Family: "
+msgstr "Rodzina czcionki:"
+
+#: includes/class-ogf-typekit.php:104
+msgid "Kit: "
+msgstr "Zestaw:"
+
+#: includes/class-ogf-typekit.php:56
+msgid "Adobe Fonts (Typekit) Configuration"
+msgstr "Konfiguracja Adobe Fonts (Typekit)"
+
+#: includes/class-ogf-typekit.php:73
+msgid "<p>You can retrieve your Adobe Fonts API Key here: <a target=\"_blank\" href=\"https://fonts.adobe.com/account/tokens\">https://fonts.adobe.com/account/tokens</a></p>"
+msgstr "<p>Można pobrać klucz API Adobe Fonts tutaj: <a target=\"_blank\" href=\"https://fonts.adobe.com/account/tokens\">https://fonts.adobe.com/account/tokens</a></p>"
+
+#: includes/customizer/settings.php:248
+msgid "Disable Editor Controls"
+msgstr "Wyłącz kontrolki edytora"
+
+#: includes/customizer/settings.php:249
+msgid "Remove font controls from the individual post editor screen (Gutenberg and Classic)."
+msgstr "Usuń kontrolki czcionek z indywidualnego ekranu edytora postów (Gutenberg i Classic)."
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:282
+msgid "None"
+msgstr "Brak"
+
+#: admin/class-ogf-welcome-screen.php:49 admin/class-ogf-welcome-screen.php:50
+msgid "Documentation"
+msgstr "Dokumentacja"
+
+#: includes/customizer/settings.php:287
+msgid "Font Display"
+msgstr "Wyświetlanie czcionki"
+
+#: includes/customizer/settings.php:294
+msgid "Fallback"
+msgstr "Plan awaryjny"
+
+#: includes/customizer/settings.php:292
+msgid "Swap"
+msgstr "Zamień"
+
+#: includes/customizer/settings.php:295
+msgid "Optional"
+msgstr "Opcjonalne"
+
+#: includes/customizer/settings.php:293
+msgid "Block"
+msgstr "Blok"
+
+#: includes/class-ogf-fonts.php:118
+msgid "Font Missing"
+msgstr "Brak czcionki"
+
+#: includes/class-ogf-fonts-taxonomy.php:68
+msgid "Search Fonts"
+msgstr "Wyszukaj czcionki"
+
+#: includes/class-ogf-fonts-taxonomy.php:69
+msgid "All Fonts"
+msgstr "Wszystkie czcionki"
+
+#: includes/class-ogf-fonts-taxonomy.php:70
+msgid "Parent Font"
+msgstr "Czcionka nadrzędna"
+
+#: includes/class-ogf-fonts-taxonomy.php:71
+msgid "Parent Font:"
+msgstr "Czcionka nadrzędna:"
+
+#: includes/class-ogf-fonts-taxonomy.php:73
+msgid "Update Font"
+msgstr "Zaktualizuj czcionkę"
+
+#: includes/class-ogf-fonts-taxonomy.php:74
+msgid "Add New Font"
+msgstr "Dodaj nową czcionkę"
+
+#: includes/class-ogf-fonts-taxonomy.php:75
+msgid "New Font Name"
+msgstr "Nazwa nowej czcionki"
+
+#: includes/class-ogf-fonts-taxonomy.php:76
+msgid "No fonts found"
+msgstr "Nie znaleziono czcionek"
+
+#: admin/class-ogf-upload-fonts-screen.php:81
+msgid "Upload Fonts"
+msgstr "Prześlij czcionki"
+
+#: admin/class-ogf-upload-fonts-screen.php:107
+msgid "The name of the font as it appears in the customizer options."
+msgstr "Nazwa czcionki pojawiająca się w opcjach dostosowywania."
+
+#: admin/class-ogf-upload-fonts-screen.php:137
+msgid "WOFF Font File"
+msgstr "Plik czcionki WOFF"
+
+#: admin/class-ogf-upload-fonts-screen.php:138
+msgid "WOFF2 Font File"
+msgstr "Plik czcionki WOFF2"
+
+#: admin/class-ogf-upload-fonts-screen.php:139
+msgid "OpenType (.otf) Font File"
+msgstr "Plik czcionki OpenType (.otf)"
+
+#: admin/class-ogf-upload-fonts-screen.php:140
+msgid "TrueType (.ttf) Font File"
+msgstr "Plik czcionki TrueType (.ttf)"
+
+#: admin/class-ogf-upload-fonts-screen.php:150
+msgid "Font .woff"
+msgstr "Czcionka .woff"
+
+#: admin/class-ogf-upload-fonts-screen.php:150
+msgid "Upload the font's .woff file or enter the URL."
+msgstr "Prześlij plik czcionki .woff lub wprowadź adres URL."
+
+#: admin/class-ogf-upload-fonts-screen.php:151
+msgid "Font .woff2"
+msgstr "Czcionka .woff2"
+
+#: admin/class-ogf-upload-fonts-screen.php:151
+msgid "Upload the font's .woff2 file or enter the URL."
+msgstr "Prześlij plik czcionki .woff2 lub wprowadź adres URL."
+
+#: admin/class-ogf-upload-fonts-screen.php:152
+msgid "Font .ttf"
+msgstr "Czcionka .ttf"
+
+#: admin/class-ogf-upload-fonts-screen.php:152
+msgid "Upload the font's .ttf file or enter the URL."
+msgstr "Prześlij plik czcionki .ttf lub wprowadź adres URL."
+
+#: admin/class-ogf-upload-fonts-screen.php:153
+msgid "Font .otf"
+msgstr "Czcionka .otf"
+
+#: admin/class-ogf-upload-fonts-screen.php:153
+msgid "Upload the font's .otf file or enter the URL."
+msgstr "Prześlij plik czcionki .otf lub wprowadź adres URL."
+
+#: admin/class-ogf-upload-fonts-screen.php:171
+#: admin/class-ogf-upload-fonts-screen.php:195
+msgid "Upload"
+msgstr "Prześlij"
+
+#: includes/class-ogf-fonts-taxonomy.php:72
+msgid "Edit Font"
+msgstr "Edytuj czcionkę"
+
+#: includes/class-ogf-fonts-taxonomy.php:67
+msgctxt "Admin menu name"
+msgid "Custom Fonts"
+msgstr "Własne czcionki"
+
+#: includes/class-ogf-fonts-taxonomy.php:65
+msgid "Custom Fonts"
+msgstr "Własne czcionki"
+
+#: admin/class-ogf-welcome-screen.php:39 admin/class-ogf-welcome-screen.php:40
+msgid "Customize Fonts"
+msgstr "Dostosuj kroje pisma"
+
+#. Plugin Name of the plugin
+#: olympus-google-fonts.php
+msgid "Fonts Plugin | Google Fonts Typography"
+msgstr "Fonts Plugin | Typografia Google Fonts"
+
+#. Author URI of the plugin
+#: olympus-google-fonts.php
+msgid "https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description"
+msgstr "https://fontsplugin.com/?utm_source=wporg&utm_medium=readme&utm_campaign=description"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:53
+msgid "Letter Spacing (px)"
+msgstr "Odstępy między literami (w pikselach)"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:281
+msgid "Lowercase"
+msgstr "Małe litery"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:54
+msgid "Text Transform"
+msgstr "Przekształcenia tekstu"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:279
+msgid "Capitalize"
+msgstr "Kapitaliki"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:280
+msgid "Uppercase"
+msgstr "Majuskuły"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:197
+#: includes/functions.php:309
+msgid "Thin Italic"
+msgstr "Chuda kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:198
+#: includes/functions.php:310
+msgid "Extra Light Italic"
+msgstr "Ekstra cienka kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:199
+#: includes/functions.php:311
+msgid "Light Italic"
+msgstr "Cienka kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:200
+#: includes/functions.php:312
+msgid "Normal Italic"
+msgstr "Normalna kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:201
+#: includes/functions.php:313
+msgid "Medium Italic"
+msgstr "Średnia kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:202
+#: includes/functions.php:314
+msgid "Semi Bold Italic"
+msgstr "Pół pogrubiona kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:203
+#: includes/functions.php:315
+msgid "Bold Italic"
+msgstr "Pogrubiona kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:204
+#: includes/functions.php:316
+msgid "Extra Bold Italic"
+msgstr "Ekstra pogrubiona kursywa"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:205
+#: includes/functions.php:317
+msgid "Ultra Bold Italic"
+msgstr "Ultra pogrubiona kursywa"
+
+#: includes/functions.php:222
+msgid "Century Gothic"
+msgstr "Century Gothic"
+
+#: includes/functions.php:237
+msgid "Helvetica Neue"
+msgstr "Helvetica Neue"
+
+#: includes/functions.php:257
+msgid "Segoe UI"
+msgstr "Segoe UI"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:129
+#: blocks/dist/blocks.build.js:1 blocks/src/google-fonts/edit.js:35
+msgid "- Custom Fonts -"
+msgstr "- Własne czcionki -"
+
+#: includes/customizer/panels.php:161 includes/customizer/settings.php:67
+msgid "Load Fonts Only"
+msgstr "Załaduj tylko czcionki"
+
+#: includes/functions.php:247
+msgid "Futura"
+msgstr "Futura"
+
+#: includes/class-ogf-reset.php:40 includes/class-ogf-reset.php:57
+msgid "This will reset all fonts set by this plugin to their defaults. This action can not be reversed."
+msgstr "Spowoduje to zresetowanie wszystkich czcionek ustawionych przez tę wtyczkę do ich wartości domyślnych. Tego działania nie można odwrócić."
+
+#: includes/class-ogf-reset.php:56 includes/class-ogf-reset.php:62
+msgid "Reset All Fonts"
+msgstr "Zresetuj wszystkie czcionki"
+
+#: includes/customizer/settings.php:68
+msgid "Load fonts but don't automatically assign them to an element."
+msgstr "Załaduj czcionki, ale nie przypisuj ich automatycznie do elementu."
+
+#: includes/functions.php:212
+msgid "Arial"
+msgstr "Arial"
+
+#: includes/functions.php:217
+msgid "Calibri"
+msgstr "Calibri"
+
+#: includes/functions.php:227
+msgid "Consolas"
+msgstr "Consolas"
+
+#: includes/functions.php:232
+msgid "Courier New"
+msgstr "Courier New"
+
+#: includes/functions.php:242
+msgid "Georgia"
+msgstr "Georgia"
+
+#: includes/functions.php:252
+msgid "Lucida Grande"
+msgstr "Lucida Grande"
+
+#: includes/functions.php:262
+msgid "Tahoma"
+msgstr "Tahoma"
+
+#: includes/functions.php:267
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: includes/functions.php:272
+msgid "Trebuchet MS"
+msgstr "Trebuchet MS"
+
+#: includes/functions.php:277
+msgid "Palatino"
+msgstr "Palatino"
+
+#: includes/functions.php:282
+msgid "Verdana"
+msgstr "Verdana"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:140
+#: blocks/dist/blocks.build.js:1 blocks/src/google-fonts/edit.js:64
+msgid "- System Fonts -"
+msgstr "- Czcionki Systemowe -"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:150
+msgid "Advanced"
+msgstr "Zaawansowane"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:144
+#: blocks/dist/blocks.build.js:1 blocks/src/google-fonts/edit.js:80
+msgid "- Google Fonts -"
+msgstr "- Google Fonts -"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:126
+msgid "Default Font"
+msgstr "Czcionka domyślna"
+
+#: includes/customizer/class-ogf-optimization-controls.php:74
+msgid "Host Google Fonts Locally"
+msgstr "Hostuj lokalnie czcionki Google."
+
+#. Author of the plugin
+#: olympus-google-fonts.php admin/class-ogf-welcome-screen.php:28
+#: includes/customizer/panels.php:31
+msgid "Fonts Plugin"
+msgstr "Fonts Plugin"
+
+#: includes/class-ogf-notifications.php:221
+msgid "Google Fonts WordPress Plugin"
+msgstr "Wtyczka WordPress Google Fonts"
+
+#: includes/customizer/panels.php:40
+msgid "Theme Settings"
+msgstr "Ustawienia motywu"
+
+#: includes/customizer/panels.php:145
+msgid "Sidebar"
+msgstr "Panel boczny"
+
+#: includes/class-ogf-fonts-taxonomy.php:66 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:274
+msgid "Font"
+msgstr "Czcionka"
+
+#: class-olympus-google-fonts.php:211
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: includes/functions.php:39
+msgid "Base Typography"
+msgstr "Podstawowa typografia"
+
+#: includes/functions.php:45 includes/functions.php:129
+#: includes/functions.php:141
+msgid "Headings Typography"
+msgstr "Typografia nagłówka"
+
+#: includes/functions.php:46
+msgid "Select and configure the font for your headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla swoich nagłówków."
+
+#: includes/functions.php:51
+msgid "Buttons and Inputs Typography"
+msgstr "Typografia przycisków i wejść"
+
+#: includes/functions.php:52
+msgid "Select and configure the font for your input fields and buttons."
+msgstr "Wybierz i skonfiguruj czcionkę dla pól wejściowych i przycisków."
+
+#: includes/functions.php:57
+msgid "Site Title Typography"
+msgstr "Typografia tytułu strony"
+
+#: includes/functions.php:58
+msgid "Select and configure the font for your site title."
+msgstr "Wybierz i skonfiguruj czcionkę dla tytułu strony."
+
+#: includes/functions.php:63
+msgid "Site Description Typography"
+msgstr "Typografia opisu strony"
+
+#: includes/functions.php:64
+msgid "Select and configure the font for your site description."
+msgstr "Wybierz i skonfiguruj czcionkę dla opisu swojej strony."
+
+#: includes/functions.php:69
+msgid "Navigation Typography"
+msgstr "Typografia nawigacji"
+
+#: includes/functions.php:70
+msgid "Select and configure the font for your site navigation."
+msgstr "Wybierz i skonfiguruj czcionkę dla nawigacji na stronie."
+
+#: includes/functions.php:75 includes/functions.php:135
+#: includes/functions.php:147
+msgid "Content Typography"
+msgstr "Typografia treści"
+
+#: includes/functions.php:81
+msgid "Title and H1 Typography"
+msgstr "Tytuł i typografia H1"
+
+#: includes/functions.php:87
+msgid "H2 Typography"
+msgstr "Typografia H2"
+
+#: includes/functions.php:88
+msgid "Select and configure the font for your H2 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków H2."
+
+#: includes/functions.php:93
+msgid "H3 Typography"
+msgstr "Typografia H3"
+
+#: includes/functions.php:94
+msgid "Select and configure the font for your H3 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków H3."
+
+#: includes/functions.php:99
+msgid "H4 Typography"
+msgstr "Typografia H4"
+
+#: includes/functions.php:100
+msgid "Select and configure the font for your H4 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków H4."
+
+#: includes/functions.php:105
+msgid "H5 Typography"
+msgstr "Typografia H5"
+
+#: includes/functions.php:106
+msgid "Select and configure the font for your H5 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków H5."
+
+#: includes/functions.php:111
+msgid "H6 Typography"
+msgstr "Typografia H6"
+
+#: includes/functions.php:112
+msgid "Select and configure the font for your H6 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków H6."
+
+#: includes/functions.php:142
+msgid "Select and configure the font for your footer headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków stopki."
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:218
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:237
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:247
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:262
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:278
+#: includes/functions.php:299 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:148
+msgid "- Default -"
+msgstr "- Domyślne -"
+
+#: includes/functions.php:302 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:151
+msgid "Light"
+msgstr "Cienka"
+
+#: includes/class-ogf-notifications.php:233
+msgid "Leave a Review"
+msgstr "Zostaw recenzję"
+
+#: includes/customizer/panels.php:67 includes/customizer/panels.php:103
+#: includes/customizer/settings.php:49
+msgid "Custom Elements"
+msgstr "Dostosuj elementy"
+
+#: includes/customizer/settings.php:228
+msgid "Force Styles?"
+msgstr "Wymusić styl?"
+
+#: includes/customizer/panels.php:48
+msgid "Basic Settings"
+msgstr "Ustawienia podstawowe"
+
+#: includes/customizer/panels.php:57
+msgid "Advanced Settings"
+msgstr "Ustawienia zaawansowane"
+
+#: includes/customizer/panels.php:77
+msgid "Font Loading"
+msgstr "Ładowanie czcionki"
+
+#: includes/customizer/panels.php:95
+msgid "Debugging"
+msgstr "Debugowanie"
+
+#: includes/customizer/panels.php:113
+msgid "Theme Elements"
+msgstr "Elementy motywu"
+
+#: includes/customizer/panels.php:129
+msgid "Navigation"
+msgstr "Nawigacja"
+
+#: includes/customizer/panels.php:137
+msgid "Content"
+msgstr "Treść"
+
+#: includes/customizer/panels.php:153
+msgid "Footer"
+msgstr "Stopka"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:84
+msgid "Save Elements"
+msgstr "Zapisz elementy"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:131
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:137
+msgid "Label"
+msgstr "Etykieta"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:142
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:148
+msgid "Description"
+msgstr "Opis"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:159
+msgid "Add your selectors..."
+msgstr "Dodaj swoje wybory..."
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:50
+msgid "Font Size (px)"
+msgstr "Rozmiar czcionki (piksele)"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:52
+msgid "Color"
+msgstr "Kolor"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:264
+msgid "Italic"
+msgstr "Kursywa"
+
+#: includes/class-ogf-notifications.php:98
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s sekunda"
+msgstr[1] "%s sekund"
+msgstr[2] "%s sekund"
+
+#. translators: Number of days
+#: includes/class-ogf-notifications.php:95
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s dzień"
+msgstr[1] "%s dni"
+msgstr[2] "%s dni"
+
+#: includes/customizer/panels.php:121
+msgid "Branding"
+msgstr "Marka"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:163
+msgid "Delete field"
+msgstr "Usuń pole"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:153
+msgid "Selectors"
+msgstr "Wybory"
+
+#: includes/customizer/controls/class-ogf-customize-repeater-control.php:81
+msgid "Add New"
+msgstr "Dodaj nową"
+
+#: includes/functions.php:308 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:157
+msgid "Ultra Bold"
+msgstr "Ultra pogrubiona"
+
+#: includes/functions.php:307 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:156
+msgid "Extra Bold"
+msgstr "Ekstra pogrubiona"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:248
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:263
+#: includes/functions.php:303 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:152
+msgid "Normal"
+msgstr "Normalna"
+
+#: includes/functions.php:304 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:153
+msgid "Medium"
+msgstr "Średnia"
+
+#: includes/functions.php:136
+msgid "Select and configure the font for your sidebar content."
+msgstr "Wybierz i skonfiguruj czcionkę dla zawartości panelu bocznego."
+
+#: includes/functions.php:130
+msgid "Select and configure the font for your sidebar headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla nagłówków panelu bocznego."
+
+#: includes/functions.php:82
+msgid "Select and configure the font for your title and H1 headings."
+msgstr "Wybierz i skonfiguruj czcionkę dla tytułu i nagłówka H1."
+
+#: includes/functions.php:148
+msgid "Select and configure the font for your footer content."
+msgstr "Wybierz i skonfiguruj czcionkę dla treści stopki."
+
+#: includes/functions.php:76
+msgid "Select and configure the font for your post and page content."
+msgstr "Wybierz i skonfiguruj czcionkę dla swojego postu i treści strony."
+
+#: includes/functions.php:40
+msgid "Select and configure the font for your content."
+msgstr "Wybierz i skonfiguruj czcionkę dla swojej treści."
+
+#: includes/class-ogf-notifications.php:224
+msgid "Are you enjoying using Google Fonts?"
+msgstr "Czy lubisz korzystać z Google Fonts?"
+
+#. Translators: %s Custom Elements Customizer Panel URL
+#: includes/customizer/panels.php:105
+msgid "Custom Elements allow you to apply Google Fonts to any part of your website, they can be setup under <a href=\"%s\">Google Fonts &rarr; Custom Elements</a>."
+msgstr "Dostosowanie elementów pozwala na stosowanie czcionek Google Fonts do dowolnej części strony, można je skonfigurować pod <a href=\"%s\">Google Fonts &rarr; Dostosuj elementy</a>."
+
+#. translators: %s Link to Google Fonts customizer panel.
+#: includes/class-ogf-welcome.php:112
+msgid "Thank you for installing <strong>Google Fonts for WordPress</strong>! Configure your fonts here: <a href=\"%s\">WordPress Customizer</a>"
+msgstr "Dziękujemy za zainstalowanie <strong>Google Fonts dla WordPress</strong>! Skonfiguruj swoje czcionki tutaj: <a href=\"%s\">WordPress Customizer</a>"
+
+#. Plugin URI of the plugin
+#: olympus-google-fonts.php
+msgid "https://wordpress.org/plugins/olympus-google-fonts/"
+msgstr "https://pl.wordpress.org/plugins/olympus-google-fonts/"
+
+#: class-olympus-google-fonts.php:217
+msgid "Upgrade to Pro"
+msgstr "Ulepsz do wersji pro"
+
+#: includes/class-ogf-notifications.php:234
+msgid "No thanks / I already have"
+msgstr "Nie dziękuję / już mam"
+
+#: includes/customizer/settings.php:229
+msgid "If your choices are not displaying correctly, check this box."
+msgstr "Jeśli twoje wybory nie są wyświetlane poprawnie, zaznacz to pole."
+
+#: includes/class-ogf-notifications.php:260
+msgid "Google Fonts for WordPress"
+msgstr "Google Fonts dla WordPressa"
+
+#. Translators: %s Custom Elements Customizer Panel URL
+#: includes/customizer/panels.php:69
+msgid "Define your Custom Elements here and then customize them under <a href=\"%s\">Advanced Settings &rarr; Custom Elements</a>."
+msgstr "Zdefiniuj tutaj swoje własne elementy, a następnie dostosuj je w <a href=\"%s\">Ustawienia zaawansowane &rarr; Dostosuj elementy</a>."
+
+#. translators: Number of weeks
+#: includes/class-ogf-notifications.php:89
+msgid "a week"
+msgid_plural "%s weeks"
+msgstr[0] "tydzień"
+msgstr[1] "%s tygodnie"
+msgstr[2] "%s tygodni"
+
+#. translators: Number of years
+#: includes/class-ogf-notifications.php:83
+msgid "a year"
+msgid_plural "%s years"
+msgstr[0] "rok"
+msgstr[1] "%s lata"
+msgstr[2] "%s lat"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:47
+msgid "Font Family"
+msgstr "Krój pisma"
+
+#: includes/functions.php:301 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:150
+msgid "Extra Light"
+msgstr "Bardzo lekka"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:48
+msgid "Font Weight"
+msgstr "Grubości kroju pisma"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:249
+#: includes/functions.php:306 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:155
+msgid "Bold"
+msgstr "Półgruby"
+
+#: includes/functions.php:305 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:154
+msgid "Semi Bold"
+msgstr "Półgruba"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:51
+#: blocks/dist/blocks.build.js:1 blocks/src/google-fonts/edit.js:296
+msgid "Line Height"
+msgstr "Interlinia"
+
+#: includes/functions.php:300 blocks/dist/blocks.build.js:1
+#: blocks/src/google-fonts/edit.js:149
+msgid "Thin"
+msgstr "Cienki"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:265
+msgid "Oblique"
+msgstr "Pochyłe"
+
+#: includes/customizer/controls/class-ogf-customize-typography-control.php:49
+msgid "Font Style"
+msgstr "Styl kroju pisma"
+
+#. translators: 1. Name, 2. Time
+#: includes/class-ogf-notifications.php:228
+msgid "You have been using <strong>%1$s</strong> for %2$s now! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Używasz <strong>%1$s</strong> od %2$s! Czy możesz wyświadczyć nam DUŻĄ przysługę i dać 5-gwiazdkową ocenę na WordPress, aby pomóc nam rozpowszechniać informacje i zwiększać naszą motywację?"

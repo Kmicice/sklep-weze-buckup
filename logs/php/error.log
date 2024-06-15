@@ -1,0 +1,431 @@
+[14-May-2024 21:24:50 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:25:18 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:28:01 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:28:14 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:30:13 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:30:54 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:34:25 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:37:05 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:39:24 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:39:45 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[14-May-2024 21:40:05 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 16:54:19 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:01:58 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:02:59 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:04:58 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:07:58 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:08:06 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:08:20 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:08:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 17:09:27 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-May-2024 18:12:27 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[19-May-2024 18:58:35 UTC] Błąd ponownego ustawienia zdarzenia harmonogramu cron dla uchwytu: jetpack_clean_nonces, kod błędu: could_not_set, komunikat błędu: Nie można zapisać listy zdarzeń cron., dane: {"schedule":"hourly","args":[],"interval":3600}
+[19-May-2024 19:04:15 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[19-May-2024 19:30:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[19-May-2024 19:30:44 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:19:04 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:19:10 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:32:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:34:03 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:34:37 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:36:33 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:36:51 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:37:18 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:38:20 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:38:25 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:52:20 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:55:14 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:57:54 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:58:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:58:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:58:29 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:59:12 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[20-May-2024 20:59:18 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 14:39:03 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 14:54:29 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 15:32:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 16:34:43 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 16:35:55 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[27-May-2024 16:41:12 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:24:59 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:26:09 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:26:34 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:28:15 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:30:53 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:31:19 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:34:31 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $desc in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\class-wc-cp-component-view.php on line 344
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $desc in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\class-wc-cp-component-view.php on line 344
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $desc in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\class-wc-cp-component-view.php on line 344
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $desc in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\class-wc-cp-component-view.php on line 344
+[28-May-2024 13:38:30 UTC] PHP Warning:  Undefined variable $desc in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\class-wc-cp-component-view.php on line 344
+[28-May-2024 13:38:47 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:48:29 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:49:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:49:44 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[28-May-2024 13:50:04 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 15:08:01 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 16:55:06 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 16:56:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 16:58:57 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 17:05:54 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 17:38:15 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 17:38:55 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 18:18:47 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 18:19:04 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 18:25:50 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 18:58:07 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:22:41 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:23:26 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:24:18 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:24:35 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:28:27 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:30:24 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:30:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:31:51 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:33:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:33:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:34:07 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:39:15 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:47:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[29-May-2024 19:52:12 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:08:44 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[05-Jun-2024 19:08:44 UTC] PHP Fatal error:  Failed opening required 'C:/Users/Pawel Kmita/AppData/Local/Programs/Local/resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[05-Jun-2024 19:08:44 UTC] PHP Warning:  Unknown: Failed to open stream: No such file or directory in Unknown on line 0
+[05-Jun-2024 19:08:44 UTC] PHP Fatal error:  Failed opening required 'C:/Users/Pawel Kmita/AppData/Local/Programs/Local/resources/extraResources/local-bootstrap.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in Unknown on line 0
+[05-Jun-2024 19:12:40 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:37:09 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:37:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:40:50 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:42:27 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:45:39 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 16
+[05-Jun-2024 19:45:39 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 17
+[05-Jun-2024 19:45:39 UTC] add_custom_length_input_field function fired with component_id: Array and product_id: {"id":1197,"name":"Kreator weza","slug":"kreator-weza","date_created":{"date":"2024-05-14 23:21:04.000000","timezone_type":3,"timezone":"Europe\/Warsaw"},"date_modified":{"date":"2024-06-05 21:37:15.000000","timezone_type":3,"timezone":"Europe\/Warsaw"},"status":"publish","featured":false,"catalog_visibility":"visible","description":"<a href=\"http:\/\/sklep-weze.local\/wp-content\/uploads\/2024\/05\/1SN-Hydraulic-Hose-1.pdf\">Specyfikacja<\/a>","short_description":"","sku":"","price":"","regular_price":"","sale_price":"","date_on_sale_from":null,"date_on_sale_to":null,"total_sales":0,"tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"stock_status":"instock","backorders":"no","low_stock_amount":"","sold_individually":false,"weight":"","length":"","width":"","height":"","upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"reviews_allowed":true,"purchase_note":"","attributes":[],"default_attributes":[],"menu_order":0,"post_password":"","virtual":true,"downloadable":false,"category_ids":[15],"tag_ids":[],"shipping_class_id":0,"downloads":[],"image_id":"","gallery_image_ids":[],"download_limit":-1,"download_expiry":-1,"rating_counts":[],"average_rating":"0","review_count":0,"sold_individually_context":"product","add_to_cart_form_location":"default","shop_price_calc":"min_max","layout":"progressive","virtual_composite":false,"editable_in_cart":false,"aggregate_weight":false,"min_raw_price":"26","max_raw_price":"60","meta_data":[{"id":1198,"key":"_kad_post_transparent","value":"default"},{"id":1199,"key":"_kad_post_layout","value":"normal"},{"id":1200,"key":"_kad_post_content_style","value":"default"},{"id":1201,"key":"_kad_post_vertical_padding","value":"default"},{"id":1228,"key":"_bto_price_data","value":{"min":{"1715728865":1198,"1715728866":1192},"max":{"1715728865":1187,"1715728866":1189},"hash":"51fb74e3a7fd1c46c898aee43fd40e07","status":"completed"}}]}
+[05-Jun-2024 19:45:39 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:46:52 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 16
+[05-Jun-2024 19:46:52 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 17
+[05-Jun-2024 19:46:52 UTC] add_custom_length_input_field function fired with component_id: Array and product_id: {"id":1197,"name":"Kreator weza","slug":"kreator-weza","date_created":{"date":"2024-05-14 23:21:04.000000","timezone_type":3,"timezone":"Europe\/Warsaw"},"date_modified":{"date":"2024-06-05 21:37:15.000000","timezone_type":3,"timezone":"Europe\/Warsaw"},"status":"publish","featured":false,"catalog_visibility":"visible","description":"<a href=\"http:\/\/sklep-weze.local\/wp-content\/uploads\/2024\/05\/1SN-Hydraulic-Hose-1.pdf\">Specyfikacja<\/a>","short_description":"","sku":"","price":"","regular_price":"","sale_price":"","date_on_sale_from":null,"date_on_sale_to":null,"total_sales":0,"tax_status":"taxable","tax_class":"","manage_stock":false,"stock_quantity":null,"stock_status":"instock","backorders":"no","low_stock_amount":"","sold_individually":false,"weight":"","length":"","width":"","height":"","upsell_ids":[],"cross_sell_ids":[],"parent_id":0,"reviews_allowed":true,"purchase_note":"","attributes":[],"default_attributes":[],"menu_order":0,"post_password":"","virtual":true,"downloadable":false,"category_ids":[15],"tag_ids":[],"shipping_class_id":0,"downloads":[],"image_id":"","gallery_image_ids":[],"download_limit":-1,"download_expiry":-1,"rating_counts":[],"average_rating":"0","review_count":0,"sold_individually_context":"product","add_to_cart_form_location":"default","shop_price_calc":"min_max","layout":"progressive","virtual_composite":false,"editable_in_cart":false,"aggregate_weight":false,"min_raw_price":"26","max_raw_price":"60","meta_data":[{"id":1198,"key":"_kad_post_transparent","value":"default"},{"id":1199,"key":"_kad_post_layout","value":"normal"},{"id":1200,"key":"_kad_post_content_style","value":"default"},{"id":1201,"key":"_kad_post_vertical_padding","value":"default"},{"id":1228,"key":"_bto_price_data","value":{"min":{"1715728865":1198,"1715728866":1192},"max":{"1715728865":1187,"1715728866":1189},"hash":"51fb74e3a7fd1c46c898aee43fd40e07","status":"completed"}}]}
+[05-Jun-2024 19:46:52 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:47:51 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:49:53 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:51:31 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 19
+[05-Jun-2024 19:51:31 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:55:00 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 19
+[05-Jun-2024 19:55:00 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:55:10 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:55:37 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:56:08 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:56:08 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:56:08 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:56:08 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:56:46 UTC] PHP Fatal error:  Uncaught Error: Object of class WC_CP_Component could not be converted to string in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:27
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:58:02 UTC] PHP Fatal error:  Uncaught Error: Object of class WC_CP_Component could not be converted to string in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:27
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:58:12 UTC] PHP Fatal error:  Uncaught Error: Object of class WC_CP_Component could not be converted to string in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:27
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 19:58:24 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:58:57 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:59:04 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 19:59:10 UTC] PHP Fatal error:  Uncaught Error: Object of class WC_CP_Component could not be converted to string in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:27
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:02:37 UTC] PHP Fatal error:  Uncaught Error: Object of class WC_CP_Component could not be converted to string in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:27
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:03:35 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:03:35 UTC] PHP Warning:  Trying to access array offset on false in D:\Sklep\WP\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[05-Jun-2024 20:03:35 UTC] PHP Warning:  Trying to access array offset on false in D:\Sklep\WP\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[05-Jun-2024 20:04:34 UTC] PHP Parse error:  syntax error, unexpected token ";", expecting identifier or variable or "{" or "$" in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:06:57 UTC] PHP Warning:  Undefined property: WC_CP_Component::$componnent_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:06:57 UTC] PHP Warning:  Undefined property: WC_CP_Component::$componnent_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:06:57 UTC] PHP Warning:  Undefined property: WC_CP_Component::$componnent_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:06:57 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:07:11 UTC] PHP Warning:  Undefined property: WC_CP_Component::$component_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:07:11 UTC] PHP Warning:  Undefined property: WC_CP_Component::$component_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:07:11 UTC] PHP Warning:  Undefined property: WC_CP_Component::$component_id in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:07:11 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:09:10 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:10:21 UTC] PHP Warning:  Undefined array key 0 in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 21
+[05-Jun-2024 20:10:21 UTC] PHP Fatal error:  Uncaught TypeError: get_class_methods(): Argument #1 ($object_or_class) must be an object or a valid class name, null given in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:21
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php(21): get_class_methods(NULL)
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#2 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#6 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#12 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#16 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#17 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#18 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#19 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#21 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#22 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#24 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#25 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 21
+[05-Jun-2024 20:11:36 UTC] PHP Warning:  Undefined array key 0 in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 24
+[05-Jun-2024 20:11:36 UTC] PHP Fatal error:  Uncaught TypeError: get_class_methods(): Argument #1 ($object_or_class) must be an object or a valid class name, null given in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:24
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php(24): get_class_methods(NULL)
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#2 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#6 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#12 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#16 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#17 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#18 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#19 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#21 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#22 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#24 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#25 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 24
+[05-Jun-2024 20:12:04 UTC] PHP Warning:  Undefined array key 0 in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 24
+[05-Jun-2024 20:12:04 UTC] PHP Fatal error:  Uncaught TypeError: get_class_methods(): Argument #1 ($object_or_class) must be an object or a valid class name, null given in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:24
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php(24): get_class_methods(NULL)
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#2 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#3 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#4 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#6 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#12 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#13 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#16 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#17 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#18 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#19 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#21 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#22 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#24 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#25 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 24
+[05-Jun-2024 20:12:22 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:12:43 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:12:43 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:12:43 UTC] PHP Warning:  Array to string conversion in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 27
+[05-Jun-2024 20:12:43 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:13:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:13:50 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:13:57 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:37:26 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:39:11 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 47
+[05-Jun-2024 20:39:12 UTC] PHP Parse error:  syntax error, unexpected token "}", expecting "," or ";" in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 47
+[05-Jun-2024 20:39:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_composite_id() in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php:31
+Stack trace:
+#0 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): add_custom_length_input_field(Array, Object(WC_Product_Composite))
+#1 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#4 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#5 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#6 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#8 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('D:\\Sklep\\WP\\app...')
+#9 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(87): wc_get_template('single-product/...', Array, '', 'D:\\Sklep\\WP\\app...')
+#10 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#11 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#12 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#13 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#14 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#15 D:\Sklep\WP\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#16 D:\Sklep\WP\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#17 D:\Sklep\WP\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#18 D:\Sklep\WP\app\public\wp-includes\template.php(812): require('D:\\Sklep\\WP\\app...')
+#19 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('D:\\Sklep\\WP\\app...', false)
+#20 D:\Sklep\WP\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#21 D:\Sklep\WP\app\public\wp-includes\template-loader.php(106): include('D:\\Sklep\\WP\\app...')
+#22 D:\Sklep\WP\app\public\wp-blog-header.php(19): require_once('D:\\Sklep\\WP\\app...')
+#23 D:\Sklep\WP\app\public\index.php(17): require('D:\\Sklep\\WP\\app...')
+#24 {main}
+  thrown in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 31
+[05-Jun-2024 20:39:37 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:40:01 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:41:09 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:41:31 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:41:45 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:42:46 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 20:43:14 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:01:05 UTC] PHP Warning:  Undefined variable $customLength in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 36
+[05-Jun-2024 21:01:05 UTC] PHP Warning:  Undefined variable $customLength in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 36
+[05-Jun-2024 21:01:05 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:02:43 UTC] PHP Warning:  Undefined variable $customLength in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 37
+[05-Jun-2024 21:02:43 UTC] PHP Warning:  Undefined variable $customLength in D:\Sklep\WP\app\public\wp-content\themes\kadence-child\functions.php on line 37
+[05-Jun-2024 21:02:43 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:03:12 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:10:01 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:16:37 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:18:04 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:22:02 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:28:06 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:30:17 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[05-Jun-2024 21:33:03 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[06-Jun-2024 15:52:11 UTC] PHP Warning:  Undefined variable $is_block_editor_request in D:\Sklep\WP\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[15-Jun-2024 12:48:07 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\functions.php on line 45
+[15-Jun-2024 12:48:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[15-Jun-2024 12:48:07 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
