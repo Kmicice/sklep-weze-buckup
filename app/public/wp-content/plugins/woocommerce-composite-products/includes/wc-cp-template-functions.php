@@ -713,14 +713,14 @@ function wc_cp_summary( $components, $product ) {
 	 */
 	$show_summary = apply_filters( 'woocommerce_composite_summary_display', 'paged' === $navigation_style, $navigation_style, $navigation_style_variation, $product );
 
-	if ( $show_summary ) {
+	
 		wc_get_template( 'single-product/composite-summary.php', array(
 			'product'    => $product,
 			'product_id' => $product->get_id(),
 			'components' => $components,
 			'hidden'     => false,
 		), '', WC_CP()->plugin_path() . '/templates/' );
-	}
+	
 }
 
 /**
