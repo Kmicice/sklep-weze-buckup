@@ -1,14 +1,8 @@
 jQuery(document).ready(function($) {
     // Function to move to the next component
-    function goToNexttComponent() {
-        console.log("in function")
+    function goToNextComponent() {
         var currentComponent = $('#composite_navigation_1197 .page_button.next');
-        console.log("in function")
-        
-        // Find the next component
-
         console.log(currentComponent)
-        
         if (currentComponent.length) {
             // Deactivate current component and activate the next one
             currentComponent[0].click();
@@ -18,7 +12,9 @@ jQuery(document).ready(function($) {
     }
 
     // Example condition: Automatically go to the next component after selecting a product
-    $('#next-component-button').on('click', function() {
-        goToNexttComponent();
+    $('body').on('click','#next-component-button', function() {
+        goToNextComponent();
     });
 });
+
+ 
