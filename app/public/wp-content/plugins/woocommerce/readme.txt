@@ -4,7 +4,7 @@ Tags: online store, ecommerce, shop, shopping cart, sell online, storefront, che
 Requires at least: 6.4
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 8.8.2
+Stable tag: 8.9.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -165,8 +165,10 @@ WooCommerce comes with some sample data you can use to see how products look; im
 
 == Changelog ==
 
-= 8.8.3 2024-04-29 =
+= 8.8.5 2024-06-10 =
 
-* Update - Reverts auto-injecting specific Woo Blocks in every block theme and restores only auto-injecting in themes found in the allow list. [#46935](https://github.com/woocommerce/woocommerce/pull/46935)
+**WooCommerce**
+
+* Security - Prevent HTML & JS injection attacts on registration and checkout forms when the Order Attribution is enabled.
 
 [See changelog for all versions](https://raw.githubusercontent.com/woocommerce/woocommerce/trunk/changelog.txt).

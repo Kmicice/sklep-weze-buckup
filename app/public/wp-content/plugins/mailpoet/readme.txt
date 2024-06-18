@@ -3,7 +3,7 @@ Contributors: mailpoet, woocommerce, automattic
 Tags: email, email marketing, post notification, woocommerce emails, email automation, newsletter, newsletter builder, newsletter subscribers
 Requires at least: 6.4
 Tested up to: 6.5
-Stable tag: 4.50.0
+Stable tag: 4.51.2
 Requires PHP: 7.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
@@ -11,14 +11,6 @@ License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Send beautiful newsletters from WordPress. Collect subscribers with signup forms, automate your emails for WooCommerce, blog post notifications & more
 
 == Description ==
-
-= Save up to 30% on MailPoet annual plans and upgrades =
-
-Our sale is live. Save up to 30% when you switch to or upgrade an annual plan — no coupon needed. Offer ends 3 pm UTC on March 29, 2024.
-
-[Shop annual plans](https://account.mailpoet.com/?billing=yearly&ref=sale-2024-h1-wporg&utm_source=wordpress.org&utm_medium=description&utm_campaign=2024-h1-sale)
-
-= What is MailPoet? =
 
 Use MailPoet to create, send, manage, and grow your email marketing campaigns – all without leaving your WordPress dashboard.
 
@@ -235,6 +227,31 @@ Check our [Knowledge Base](https://kb.mailpoet.com) or contact us through our [s
 6. WooCommerce emails
 
 == Changelog ==
+
+= 4.51.2 - 2024-06-11 =
+* Added: an error message when ping is not working;
+* Added: a notice when switching to Creator plan with MailPoet Sending Service active;
+* Added: an error message when cron is disabled;
+* Added: an error message for invalid API endpoints;
+* Improved: an error message when sending through MailPoet Sending Service on a Creator plan;
+* Improved: an error message when sending a campaign from an unauthorized sender domain;
+* Changed: Twitter to X in email editor social icons block;
+* Fixed: potential error when throttling subscriptions signups;
+* Fixed: WooCommerce customers sync breaks when there is an order without a customer.
+
+= 4.51.1 - 2024-06-03 =
+* Updated: composer dependencies;
+* Improved: added URL validator when inserting link in email blocks.
+
+= 4.51.0 - 2024-05-27 =
+* Fixed: marking plugin as incompatible with WooCommerce HPOS on multisite;
+* Fixed: incorrect order links in subscriber stats;
+* Fixed: Overlapping between controlbar and the block in the form editor.
+
+= 4.50.1 - 2024-05-21 =
+* Added: the date when a subscriber was added to the subscribers' list;
+* Fixed: Public API updateList now accepts the same name but a different description;
+* Fixed: inconsistent subscription state of guest customer after placing an order.
 
 = 4.50.0 - 2024-05-07 =
 * Improved: "Send email" automation step waits for the email to be queued before marking the step as completed;

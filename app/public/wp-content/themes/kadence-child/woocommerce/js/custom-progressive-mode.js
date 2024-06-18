@@ -1,6 +1,7 @@
 jQuery(document).ready(function($) {
     // Function to move to the next component
     function goToNexttComponent() {
+        console.log("in function")
         var currentComponent = $('#composite_navigation_1197 .page_button.next');
         console.log("in function")
         
