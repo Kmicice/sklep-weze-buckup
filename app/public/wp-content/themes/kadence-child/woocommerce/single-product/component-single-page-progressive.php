@@ -1,4 +1,4 @@
-`<?php
+<?php
 /**
  * Single Page Progressive Component template
  *
