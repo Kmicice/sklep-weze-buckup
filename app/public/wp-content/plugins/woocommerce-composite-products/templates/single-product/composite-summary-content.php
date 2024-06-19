@@ -39,7 +39,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		?><li class="summary_element summary_element_<?php echo esc_attr( $component_id ); ?> <?php echo esc_attr( $summary_element_class ); ?>" data-item_id="<?php echo esc_attr( $component_id ); ?>">
 			<div class="summary_element_wrapper_outer">
 				<div class="summary_element_wrapper disabled">
-					<div class="summary_element_wrapper_inner cp_clearfix"></div>
+					<div class="summary_element_wrapper_inner cp_clearfix bg-slate-50">hello</div>
 				</div>
 			</div>
 		</li><?php
