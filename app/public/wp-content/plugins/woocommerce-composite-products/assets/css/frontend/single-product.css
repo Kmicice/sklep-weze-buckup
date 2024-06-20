@@ -886,9 +886,8 @@ span.summary_element_content span.content_bundle_title {
 }
 
 .composite_summary .summary_element_wrapper_inner {
-    padding: 12px;
     position: relative;
-    border: 1px solid transparent !important
+    border: 1px solid black !important
 }
 
 .composite_summary ul.summary_elements {
@@ -945,7 +944,7 @@ span.summary_element_content span.content_bundle_title {
 }
 
 .composite_summary .summary_element_wrapper_outer {
-    padding: 5px
+    padding: 0px
 }
 
 .widget_composite_summary .composite_button {

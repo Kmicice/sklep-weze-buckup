@@ -6,6 +6,7 @@ function kadence_child_enqueue_styles() {
     $parent_style = 'kadence-style'; // This is 'kadence-style' for the Kadence theme.
 
     wp_enqueue_style( $parent_style, get_template_directory_uri() . '/style.css' );
+    wp_enqueue_style( "tailwind-style", get_stylesheet_directory_uri() . '/tailwind_output.css', array(), '1.0' );
     wp_enqueue_style( 'kadence-child-style',
         get_stylesheet_directory_uri() . '/style.css',
         array( $parent_style ),
