@@ -52,7 +52,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 		?></div>
 
 <?php if($component_id == '1717623436'){ ?>
-			<button id="next-component-button"  type="button" class="button">Dodaj długość</button>
+			<button id="next-component-button"  type="button" class="button">Dodaj długość [cm]</button>
 		<?php } ?>
 
 		<script>

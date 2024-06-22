@@ -716,3 +716,115 @@ Stack trace:
 [22-Jun-2024 15:46:23 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
 [22-Jun-2024 15:46:50 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
 [22-Jun-2024 15:48:05 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:02:51 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "composite-summary-default-values" not found or invalid function name in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\single-product\component-single-page-progressive.php(64): do_action('woocommerce_com...', 1717623436, Object(WC_Product_Composite))
+#3 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#4 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(51): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#5 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#6 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(92): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#7 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#8 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#11 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#12 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#13 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#15 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template.php(812): require('C:\\Users\\Pawel ...')
+#16 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\Users\\Pawel ...', false)
+#17 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#18 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Pawel ...')
+#19 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Pawel ...')
+#20 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\index.php(17): require('C:\\Users\\Pawel ...')
+#21 {main}
+  thrown in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php on line 324
+[22-Jun-2024 16:03:14 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "composite-summary-default-values" not found or invalid function name in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#1 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\single-product\component-single-page-progressive.php(64): do_action('woocommerce_com...', 1717623436, Object(WC_Product_Composite))
+#3 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#4 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(51): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#5 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#6 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(92): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#7 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#8 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#9 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#10 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#11 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#12 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#13 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#14 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#15 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template.php(812): require('C:\\Users\\Pawel ...')
+#16 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\Users\\Pawel ...', false)
+#17 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#18 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Pawel ...')
+#19 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Pawel ...')
+#20 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\index.php(17): require('C:\\Users\\Pawel ...')
+#21 {main}
+  thrown in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php on line 324
+[22-Jun-2024 16:05:02 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:05:18 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:05:59 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:08:04 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "composite-summary-default-values" not found or invalid function name in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#3 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#4 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#7 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#8 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(92): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#9 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#10 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#12 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#13 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#14 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#15 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#16 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#17 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template.php(812): require('C:\\Users\\Pawel ...')
+#18 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\Users\\Pawel ...', false)
+#19 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#20 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Pawel ...')
+#21 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Pawel ...')
+#22 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\index.php(17): require('C:\\Users\\Pawel ...')
+#23 {main}
+  thrown in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php on line 324
+[22-Jun-2024 16:08:15 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "composite-summary-default-values" not found or invalid function name in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php:324
+Stack trace:
+#0 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#1 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#2 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(746): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#3 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_before_components(Array, Object(WC_Product_Composite))
+#4 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#5 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#6 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\single-product\add-to-cart\composite.php(32): do_action('woocommerce_com...', Array, Object(WC_Product_Composite))
+#7 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(345): include('C:\\Users\\Pawel ...')
+#8 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\includes\wc-cp-template-functions.php(92): wc_get_template('single-product/...', Array, '', 'C:\\Users\\Pawel ...')
+#9 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): wc_cp_add_to_cart('')
+#10 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#11 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#12 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-template-functions.php(1717): do_action('woocommerce_com...')
+#13 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(324): woocommerce_template_single_add_to_cart('')
+#14 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#15 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#16 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\themes\kadence-child\woocommerce\content-single-product.php(60): do_action('woocommerce_sin...')
+#17 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template.php(812): require('C:\\Users\\Pawel ...')
+#18 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\includes\wc-core-functions.php(284): load_template('C:\\Users\\Pawel ...', false)
+#19 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce\templates\single-product.php(37): wc_get_template_part('content', 'single-product')
+#20 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\Pawel ...')
+#21 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-blog-header.php(19): require_once('C:\\Users\\Pawel ...')
+#22 C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\index.php(17): require('C:\\Users\\Pawel ...')
+#23 {main}
+  thrown in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-includes\class-wp-hook.php on line 324
+[22-Jun-2024 16:12:35 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:16:30 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:18:11 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:20:53 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
+[22-Jun-2024 16:25:26 UTC] PHP Warning:  Undefined variable $is_block_editor_request in C:\Users\Pawel Kmita\Local Sites\sklep-weze-buckup\app\public\wp-content\plugins\woocommerce-composite-products\templates\composited-product\invalid-product.php on line 36
