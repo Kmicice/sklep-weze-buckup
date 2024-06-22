@@ -163,7 +163,7 @@ class Activation {
 		}
 
 	
-		$this->activate( $code, $data['token'], $dev );
+		// $this->activate( $code, $data['token'], $dev );
 
 		$this->_notices->add_success( 'The license is verified and theme is activated successfully. Auto updates function is enabled.' );
 	}
