@@ -1,0 +1,110 @@
+{
+    "id": 1197,
+    "name": "Kreator weza",
+    "slug": "kreator-weza",
+    "date_created": {
+        "date": "2024-05-14 23:21:04.000000",
+        "timezone_type": 3,
+        "timezone": "Europe\/Warsaw"
+    },
+    "date_modified": {
+        "date": "2024-06-05 21:37:15.000000",
+        "timezone_type": 3,
+        "timezone": "Europe\/Warsaw"
+    },
+    "status": "publish",
+    "featured": false,
+    "catalog_visibility": "visible",
+    "description": "Specyfikacja<\/a>",
+    "short_description": "",
+    "sku": "",
+    "price": "",
+    "regular_price": "",
+    "sale_price": "",
+    "date_on_sale_from": null,
+    "date_on_sale_to": null,
+    "total_sales": 0,
+    "tax_status": "taxable",
+    "tax_class": "",
+    "manage_stock": false,
+    "stock_quantity": null,
+    "stock_status": "instock",
+    "backorders": "no",
+    "low_stock_amount": "",
+    "sold_individually": false,
+    "weight": "",
+    "length": "",
+    "width": "",
+    "height": "",
+    "upsell_ids": [],
+    "cross_sell_ids": [],
+    "parent_id": 0,
+    "reviews_allowed": true,
+    "purchase_note": "",
+    "attributes": [],
+    "default_attributes": [],
+    "menu_order": 0,
+    "post_password": "",
+    "virtual": true,
+    "downloadable": false,
+    "category_ids": [
+        15
+    ],
+    "tag_ids": [],
+    "shipping_class_id": 0,
+    "downloads": [],
+    "image_id": "",
+    "gallery_image_ids": [],
+    "download_limit": -1,
+    "download_expiry": -1,
+    "rating_counts": [],
+    "average_rating": "0",
+    "review_count": 0,
+    "sold_individually_context": "product",
+    "add_to_cart_form_location": "default",
+    "shop_price_calc": "min_max",
+    "layout": "progressive",
+    "virtual_composite": false,
+    "editable_in_cart": false,
+    "aggregate_weight": false,
+    "min_raw_price": "26",
+    "max_raw_price": "60",
+    "meta_data": [
+        {
+            "id": 1198,
+            "key": "_kad_post_transparent",
+            "value": "default"
+        },
+        {
+            "id": 1199,
+            "key": "_kad_post_layout",
+            "value": "normal"
+        },
+        {
+            "id": 1200,
+            "key": "_kad_post_content_style",
+            "value": "default"
+        },
+        {
+            "id": 1201,
+            "key": "_kad_post_vertical_padding",
+            "value": "default"
+        },
+        {
+            "id": 1228,
+            "key": "_bto_price_data",
+            "value": {
+                "min": {
+                    "1715728865": 1198,
+                    "1715728866": 1192
+                },
+                "max": {
+                    "1715728865": 1187,
+                    "1715728866": 1189
+                },
+                "hash": "51fb74e3a7fd1c46c898aee43fd40e07",
+                "status": "completed"
+            }
+        }
+    ]
+}
