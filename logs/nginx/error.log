@@ -1,0 +1,1 @@
+2024/06/22 22:01:01 [error] 44284#48836: *17786 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "POST /wp-admin/admin-ajax.php?action=wp_1_wc_regenerate_images&nonce=86dd1bd212 HTTP/1.0", upstream: "fastcgi://127.0.0.1:10008", host: "sklep-weze-buckup.local"

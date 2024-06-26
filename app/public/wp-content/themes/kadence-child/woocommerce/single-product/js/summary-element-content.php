@@ -19,7 +19,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 ?>
 <script type="text/template" id="tmpl-wc_cp_summary_element_content">
-<!-- <?php global $product; ?> -->
 	<div class="w-full lg:w-2/3 primary-text bg-grey">
 			<div class="flex flex-wrap">
 			<div class="flex w-full px-5 py-6 border-b border-gray-300 md:w-full lg:w-full xl:w-full md:px-10">
@@ -27,8 +26,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 						{{ data.element_title }}
 					</div>
 					<div id="summary_element_selection_{{ data.element_index }}" class="summary_size flex-1 type">
-						<!-- <?php echo  wp_json_encode($product->get_components()) ?> -->
-						<!-- {{ JSON.stringify(data) }} -->
 						{{{ data.element_selection_title }}}
 					</div>
 				</div>

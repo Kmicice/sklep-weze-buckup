@@ -13,12 +13,13 @@ function kadence_child_enqueue_styles() {
         wp_get_theme()->get('Version')
     );
 
-    wp_register_script('custom-progressive-mode', get_stylesheet_directory_uri() . '/woocommerce/js/custom-progressive-mode.js', array('jquery'), null, true);
-    wp_register_script('composite-summary-default-values', get_stylesheet_directory_uri() . '/woocommerce/js/composite-summary-default-values.js', array('jquery'), null, true);
+      wp_register_script('composite-summary-default-values', get_stylesheet_directory_uri() . '/woocommerce/js/composite-summary-default-values.js', array('jquery'), null, true);
+      wp_register_script('custom-progressive-mode', get_stylesheet_directory_uri() . '/woocommerce/js/custom-progressive-mode.js', array('jquery'), null, true);
 
     // Enqueue the script
-    wp_enqueue_script('custom-progressive-mode');
+
     wp_enqueue_script('composite-summary-default-values');
+    wp_enqueue_script('custom-progressive-mode');
 }
 add_action( 'wp_enqueue_scripts', 'kadence_child_enqueue_styles' );
 remove_action( 'woocommerce_composited_product_single', 'wc_cp_composited_product_title', 5 );
