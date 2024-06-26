@@ -37,3 +37,8 @@ if ( $quantity_max !== '' && $quantity_min == $quantity_max ) {
 if($component_id == '1717623436'){ ?>
 	<button id="next-component-button"  type="button" class="button">Dodaj długość [cm]</button>
 	<?php }
+
+if($component_id == '1719438742'){ ?>
+	<button id="next-component-button"  type="button" class="button">Dodaj kąt nachylenia końcówek [°]</button>
+	<?php }
+

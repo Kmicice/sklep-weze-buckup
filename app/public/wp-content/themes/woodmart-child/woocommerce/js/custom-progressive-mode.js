@@ -1,5 +1,11 @@
 jQuery(document).ready(function($) {
     // Function to move to the next component
+    const hoseLengthNode = '#summary_element_selection_3';
+    const hoseLengthQuantity = "[name='wccp_component_quantity[1717623436]']";
+
+    const fittinAngleNode = '#summary_element_selection_6';
+    const fittinAngleQuantity = "[name='wccp_component_quantity[1719438742]']";
+
     function goToNextComponent() {
         setSummary();
         var currentComponent = $('#composite_navigation_1197 .page_button.next');
@@ -13,16 +19,14 @@ jQuery(document).ready(function($) {
     }
 
     function setSummary() {
-        var qty = $( "[name='wccp_component_quantity[1717623436]']" );
-        var size = $( '#summary_element_selection_1' );
+        var lengthQty = $( hoseLengthQuantity );
+        var lengthSizeNode = $( hoseLengthNode );
 
-        console.log("before: " +  $( '#summary_element_selection_1' ).text())
-        console.log("new value " + qty.val() +" [cm]" );
-        size.text(qty.val() +" [cm]" )
+        var angleQty = $( fittinAngleQuantity );
+        var angleSizeNode = $( fittinAngleNode );
 
-        console.log("after: " +  $( '#summary_element_selection_1' ).val())
-
-        
+        lengthSizeNode.text(lengthQty.val() +" [cm]" )
+        angleSizeNode.text(angleQty.val() +" [°]" )
     }
 
     // Example condition: Automatically go to the next component after selecting a product
@@ -30,22 +34,23 @@ jQuery(document).ready(function($) {
         goToNextComponent();
     });
 
-    
-
-
     // Observer to detect when the element is added to the DOM
     const bodyObserver = new MutationObserver(
         function(mutations, observer) {
         mutations.forEach(function(mutation) {
-            // console.log(mutation);
             if (mutation.type === 'childList') {
                 mutation.addedNodes.forEach(function(node) {
                     if (node.querySelector) {
-                        const child = node.querySelector('#summary_element_selection_1');
-                        if (child) {
-                            var qty = $( "[name='wccp_component_quantity[1717623436]']" );
-                            var size = $( '#summary_element_selection_1' );
+                        const lengthNode = node.querySelector(hoseLengthNode);
+                        const angleNode = node.querySelector(fittinAngleNode);
+                        if (lengthNode) {
+                            var qty = $( hoseLengthQuantity );
+                            var size = $( hoseLengthNode );
                             size.text(qty.val() +" [cm]" )
+                        } else if (angleNode){
+                            var qty = $( fittinAngleQuantity );
+                            var size = $( fittinAngleNode );
+                            size.text(qty.val() +" [°]" )
                         }
                     }
                 });
