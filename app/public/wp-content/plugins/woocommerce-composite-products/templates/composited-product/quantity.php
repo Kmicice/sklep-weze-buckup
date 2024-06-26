@@ -34,3 +34,6 @@ if ( $quantity_max !== '' && $quantity_min == $quantity_max ) {
 	// phpcs:ignore WordPress.Security.EscapeOutput.OutputNotEscaped
 	echo $quantity_input;
 }
+if($component_id == '1717623436'){ ?>
+	<button id="next-component-button"  type="button" class="button">Dodaj długość [cm]</button>
+	<?php }

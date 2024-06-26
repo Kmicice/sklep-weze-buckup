@@ -50,11 +50,6 @@ if ( ! defined( 'ABSPATH' ) ) {
 			), '', WC_CP()->plugin_path() . '/templates/' );
 
 		?></div>
-
-<?php if($component_id == '1717623436'){ ?>
-			<button id="next-component-button"  type="button" class="button">Dodaj długość [cm]</button>
-		<?php } ?>
-
 		<script>
     </script>
 	</div>
