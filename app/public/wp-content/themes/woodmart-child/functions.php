@@ -28,4 +28,8 @@ remove_action( 'woocommerce_composited_product_single', 'wc_cp_composited_produc
 // add_action( 'woocommerce_composite_before_components_progressive', 'composite-summary-default-values', 1, 2 );
 // add_action( 'woocommerce_composite_after_components_progressive', 'wc_cp_add_to_cart_section', 10, 2 );
 
+add_filter( 'woocommerce_composite_component_loop_columns', 'wc_cp_component_loop_columns', 10, 3 );
 
+function wc_cp_component_loop_columns( $cols, $component_id, $composite ) {
+	return 5;
+}
