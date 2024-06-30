@@ -1047,10 +1047,10 @@ class WC_CP_Component implements ArrayAccess {
 		if ( 'yes' === $hide_product_thumbnail ) {
 			$classes[] = 'selection_thumbnail_hidden';
 		}
-
-		if ( 'transition' === $this->get_select_action() ) {
+		//usuniety if bo czesc stepow nie miała dodanego transition i nie przechodzilo do nastepnego punktu
+		
 			$classes[] = 'autotransition';
-		}
+		
 
 		/**
 		 * Filter component classes. Used for JS app initialization.

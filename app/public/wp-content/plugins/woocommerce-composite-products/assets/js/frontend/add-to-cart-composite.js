@@ -7692,7 +7692,7 @@ jQuery.fn.wc_cp_animate_height = function( to, duration, callbacks ) {
 
 						options_data[ option_data_index ].is_hidden   = options_data[ option_data_index ].is_disabled && self.hide_disabled_products();
 						options_data[ option_data_index ].is_selected = options_data[ option_data_index ].option_id === selected_product;
-
+						console.log('log');
 						options_data[ option_data_index ].option_button_text   = option_data.is_configurable ? wc_composite_params.i18n_configure_option_button : wc_composite_params.i18n_select_option_button;
 						options_data[ option_data_index ].option_button_label  = option_data.is_configurable ? wc_composite_params.i18n_configure_option_button_label.replace( '%s', option_data.option_title ) : wc_composite_params.i18n_select_option_button_label.replace( '%s', option_data.option_title );
 						options_data[ option_data_index ].option_display_title = option_data.option_title;

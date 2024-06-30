@@ -31,6 +31,12 @@ jQuery(document).ready(function($) {
 
     // Example condition: Automatically go to the next component after selecting a product
     $('body').on('click','#next-component-button', function() {
+        console.log("some");
+        goToNextComponent();
+    });
+
+    $('component_option_thumbnail_1189').on( 'click', function() {
+        console.log("some");
         goToNextComponent();
     });
 
